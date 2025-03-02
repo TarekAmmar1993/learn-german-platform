@@ -1,0 +1,8 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.singleQuote": true,
+  "eslint.format.enable": true,
+  "editor.tabSize": 2
+}
