@@ -3,12 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "pnpm next dev --turbopack",
-    "build": "pnpm next build",
-    "start": "pnpm next start",
-    "lint": "pnpm next lint",
-    "test": "pnpm jest",
-    "test:watch": "pnpm jest --watch"
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "test": "jest",
+    "test:watch": "jest --watch"
   },
   "dependencies": {
     "next": "15.2.0",
